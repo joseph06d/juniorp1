@@ -8,6 +8,9 @@ package Clases;
  *
  * @author VALENTINA
  */
+
+//Regitro Git
+
 public class cls_cliente {
     private String cedula;
     private String nombre;
