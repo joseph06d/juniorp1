@@ -10,7 +10,7 @@ package Clases;
  */
 
 //Regitro Git
-
+//tomar acciones
 public class cls_cliente {
     private String cedula;
     private String nombre;
