@@ -13,6 +13,7 @@ package Clases;
 //tomar acciones
 //botones actualizados
 //retiro de datos
+//base de datos
 public class cls_cliente {
     private String cedula;
     private String nombre;
