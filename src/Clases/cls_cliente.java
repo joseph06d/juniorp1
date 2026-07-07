@@ -15,6 +15,7 @@ package Clases;
 //retiro de datos
 //base de datos
 //encontrar datos
+//prototipo final
 public class cls_cliente {
     private String cedula;
     private String nombre;
